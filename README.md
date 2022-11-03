@@ -1,2 +1,2 @@
-# YoussefLand-docs
-Documentation for Youssef Land
+# Youssef Land Docs
+The official documentation for Youssef Land.
